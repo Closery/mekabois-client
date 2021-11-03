@@ -1,0 +1,11 @@
+{
+	"DEV_MODE": true,
+
+	"HOST": "mekabois.cf",
+	"DEV_HOST": "localhost:5000",
+
+	"SOCKET_HOST": "socket.mekabois.cf",
+	"DEV_SOCKET_HOST": "localhost:4000",
+
+	"ROOMS": ["meka1", "meka2", "meka3", "MEKA_P1_Kmc7H9cRY8dH2r", "MEKA_P2_GSgb3NukhLXLA4"]
+}
